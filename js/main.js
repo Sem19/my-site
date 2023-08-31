@@ -84,6 +84,13 @@ $(document).ready(function () {
     ]
     })
 
+    $('.testimomials-sliders').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: false,
+    })
+
     $(".btn-slider").click(function () {
         $(".btn-slider").removeClass("active")
         $(this).addClass("active")
