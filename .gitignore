@@ -3,9 +3,9 @@
 #launch.json folder
 .vscode/
 #Cache folder
-.alcache/
+.css/*.map
 #Symbols folder
-.alpackages/
+scss/
 #Snapshots folder
 .snapshots/
 #Testing Output folder
