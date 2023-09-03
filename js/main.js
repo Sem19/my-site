@@ -56,6 +56,10 @@ $(document).ready(function () {
         infinite: true,
         slidesToShow: 3,
         slidesToScroll: 1,
+        // autoplay: true,
+        // autoplaySpeed: 0,
+        // speed: 8000,
+        // pauseOnHover: false,
         prevArrow: "<button type='button' class='slick-prev btn btn-slider'><img src='img/prev.svg' alt='prev'></button>",
         nextArrow: "<button type='button' class='slick-next btn btn-slider active'><img src='img/next.svg' alt='next'></button>",
         responsive: [{
